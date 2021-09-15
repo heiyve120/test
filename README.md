@@ -1,2 +1,2 @@
 # test
-this is a test repository for learning.
+this is a test repository for learning github.
